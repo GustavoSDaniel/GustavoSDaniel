@@ -15,15 +15,26 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 ## 🌐 <span style="color:#00bfbf">Redes Sociais:</span>
-<a href="https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a href="https://x.com/DevDanielSilva" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white">
-</a> 
-<a href="mailto:gustavosdaniel@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23D93025.svg?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <span style="margin-right: 3px;"></span>
+  <a href="https://x.com/DevDanielSilva" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <span style="margin-right: 3px;"></span>
+  <a href="mailto:gustavosdaniel@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D93025.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+
+
+
+
+
 
 
  
