@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoSDaniel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Silva Daniel Github Status"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSDaniel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSDaniel&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas"/>
 </div>
 
 [![GustavoSDaniel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoSDaniel&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ff007f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -12,7 +12,10 @@
 # 💻 **<span style="color:#00bfbf">Tecnologias:</span>**
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
