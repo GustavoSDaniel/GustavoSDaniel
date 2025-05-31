@@ -1,10 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Gustavo+Silva+Daniel;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+desafios!)](https://git.io/typing-svg)
 
-<p align="center">
-  👋 Olá! Sou Gustavo, desenvolvedor full stack com foco em Java e Spring Boot.<br>
-  Apaixonado por resolver problemas com código limpo e arquiteturas bem definidas.<br>
-  Sempre buscando aprender e contribuir com projetos desafiadores.
-</p>
+<p align="center"> 👋 Olá! Sou <strong>Gustavo</strong>, desenvolvedor <strong>Full Stack</strong> com foco em <strong>Java</strong> e <strong>Spring Boot</strong>.<br> Tenho paixão por transformar desafios em soluções elegantes, com <strong>código limpo</strong> e <strong>arquiteturas bem estruturadas</strong>.<br> Estou sempre em busca de <strong>aprendizado contínuo</strong> e oportunidades para contribuir em projetos que fazem a diferença. </p>
 
 ---
 
