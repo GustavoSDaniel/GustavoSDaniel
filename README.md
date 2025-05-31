@@ -15,7 +15,9 @@
 
 <br/>
 
-[![GustavoSDaniel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoSDaniel&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ff007f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoSDaniel&theme=dark&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=ff007f&currStreakLabel=00bfbf&background=0d1117" alt="GitHub Streak"/>
+</div>
 
 ---
 
