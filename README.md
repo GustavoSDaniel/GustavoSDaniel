@@ -1,77 +1,64 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Gustavo+Silva+Daniel;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+desafios!)](https://git.io/typing-svg)
-
-<p align="center"> 👋 Olá! Sou <strong>Gustavo</strong>, desenvolvedor <strong>Full Stack</strong> com foco em <strong>Java</strong> e <strong>Spring Boot</strong>.<br> Tenho paixão por transformar desafios em soluções elegantes, com <strong>código limpo</strong> e <strong>arquiteturas bem estruturadas</strong>.<br> Estou sempre em busca de <strong>aprendizado contínuo</strong> e oportunidades para contribuir em projetos que fazem a diferença. </p>
-
----
-
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GustavoSDaniel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSDaniel&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoSDaniel&theme=dark&hide_border=true&stroke=00bfbf&ring=00bfbf&fire=ff007f&currStreakLabel=00bfbf&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Programação💻" alt="Programação">
 </div>
-
-[![GustavoSDaniel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoSDaniel&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ff007f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 💻 Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+👇" alt="Typing SVG">
 </div>
 
----
+<br>
 
-<h2 align="center">🌐 Redes Sociais</h2>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/DevDanielSilva" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="mailto:gustavosdaniel@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D93025.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
 
----
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSDaniel&theme=jolly) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSDaniel&theme=jolly&layout=compact) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSDaniel&theme=jolly&utcOffset=-3) |
+| :-: | :-: | :-: |
 
-<p align="center">
-  ⭐️ Obrigado por visitar meu perfil!
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSDaniel&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoSDaniel&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
 
+</div>
 
+<br>
 
+<div align="center">
 
+[![Email](https://img.shields.io/badge/Email-291b3e?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavosdaniel@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516991570223)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/)
 
+</div>
 
+<br>
 
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221627913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"/>
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://i.imgur.com/g4MXr7i.png" width="200" style="border-radius:50%"/>
+</div>
 
- 
+<div align="center">
+  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSDaniel&s=30&c=ff64da&tb=Visits%3A++&ta="/></p>
+</div>
 
+<br>
 
-
-
-
-
-
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
