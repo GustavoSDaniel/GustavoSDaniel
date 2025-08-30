@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-291b3e?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavosdaniel@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-291b3e?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavosdaniel@hotmail.com?subject=Contato%20pelo%20GitHub)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516991570223)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/)
 
