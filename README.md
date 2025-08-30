@@ -1,20 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Programação💻" alt="Programação">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Programação💻" alt="Programação">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+👇" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+👇" alt="Typing SVG">
 </div>
 
 <br>
-
 <br>
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSDaniel&theme=jolly) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSDaniel&theme=jolly&layout=compact) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSDaniel&theme=jolly&utcOffset=-3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSDaniel&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoSDaniel&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSDaniel&theme=jolly&utcOffset=-3) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSDaniel&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoSDaniel&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
@@ -35,28 +34,28 @@
 <br>
 
 <div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221627913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221627913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/g4MXr7i.png" width="200" style="border-radius:50%"/>
+  <img src="https://i.imgur.com/g4MXr7i.png" width="200" style="border-radius:50%"/>
 </div>
 
 <div align="center">
-  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSDaniel&s=30&c=ff64da&tb=Visits%3A++&ta="/></p>
+  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSDaniel&s=30&c=ff64da&tb=Visits%3A++&ta="/></p>
 </div>
 
 <br>
