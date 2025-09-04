@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Programação💻" alt="Programação">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Desenvolvedor+Full+Stack💻" alt="Programação">
 </div>
 
 <div align="center">
@@ -56,3 +56,9 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
+
+---
+
+✨ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos e trocar uma ideia comigo.
+
