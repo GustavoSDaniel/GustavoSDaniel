@@ -13,10 +13,10 @@
 
 <div align="center">
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSDaniel&theme=dracula&v=1) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoSDaniel&theme=dracula&v=1) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSDaniel&theme=dracula&utcOffset=-3&v=1) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSDaniel&theme=radical&v=1) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoSDaniel&theme=radical&v=1) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSDaniel&theme=radical&utcOffset=-3&v=1) |
 | :-: | :-: | :-: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSDaniel&theme=dracula&v=1) | [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoSDaniel&theme=dracula&hide_border=true)](https://git.io/streak-stats) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSDaniel&theme=radical&v=1) | [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoSDaniel&theme=radical&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
