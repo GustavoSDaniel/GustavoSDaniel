@@ -16,7 +16,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSDaniel&theme=jolly&v=1) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoSDaniel&theme=jolly&v=1) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSDaniel&theme=jolly&utcOffset=-3&v=1) |
 | :-: | :-: | :-: |
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSDaniel&theme=jolly&v=1) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoSDaniel&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSDaniel&theme=jolly&v=1) | [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoSDaniel&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
