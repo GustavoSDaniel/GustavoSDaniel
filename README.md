@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=bb9af7"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Desenvolvedor+Full+Stack💻" alt="Programação">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=bb9af7&size=30&center=true&width=500&lines=Desenvolvedor+Full+Stack💻" alt="Programação">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+👇" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=bb9af7&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+👇" alt="Typing SVG">
 </div>
 
 <br>
@@ -25,9 +25,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-291b3e?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavosdaniel@hotmail.com?subject=Contato%20pelo%20GitHub)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516991570223)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/)
+[![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavosdaniel@hotmail.com?subject=Contato%20pelo%20GitHub)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516991570223)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/)
 
 </div>
 
@@ -50,12 +50,12 @@
 </div>
 
 <div align="center">
-  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSDaniel&s=30&c=ff64da&tb=Visits%3A++&ta="/></p>
+  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSDaniel&s=30&c=7aa2f7&tb=Visits%3A++&ta="/></p>
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bb9af7&height=110&section=footer"/>
 
 ---
 
