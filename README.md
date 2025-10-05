@@ -49,8 +49,10 @@
   <img src="https://i.imgur.com/g4MXr7i.png" width="200" style="border-radius:50%"/>
 </div>
 
+<br>
+
 <div align="center">
-  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSDaniel&s=30&c=ff64da&tb=Visits%3A++&ta="/></p>
+  <img src="https://komarev.com/ghpvc/?username=GustavoSDaniel&label=👁️+Visitas&color=dd0afc&style=for-the-badge" alt="Contador de visitas"/>
 </div>
 
 <br>
