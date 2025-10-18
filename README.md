@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Desenvolvedor+Full+Stack💻" alt="Programação">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Desenvolvedor+Backend+💻" alt="Programação">
 </div>
 
 <div align="center">
