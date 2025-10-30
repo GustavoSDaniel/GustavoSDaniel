@@ -23,23 +23,53 @@
 
 <br>
 
+## 🚀 Meus Projetos em Destaque
+
+<div align="center">
+
+### 🔥 Desafio Inscritos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=desafio.inscritos&theme=jolly&show_owner=true)](https://github.com/GustavoSDaniel/desafio.inscritos)
+
+*Sistema para gerenciamento de projetos e tarefas com funcionalidades avançadas*
+
+</div>
+
+<br>
+
+## 💻 Tecnologias & Ferramentas
+
+<div align="center" style="display: inline_block">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+</div>
+
+<br>
+
+## 📊 Estatísticas de Linguagens
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSDaniel&layout=compact&theme=jolly&hide_border=true)
+
+</div>
+
+<br>
+
+## 📫 Vamos nos conectar!
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-291b3e?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gustavosdaniel@hotmail.com?subject=Contato%20pelo%20GitHub)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5516991570223)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gustavo-silva-daniel-a778b7331/)
 
-</div>
-
-<br>
-
-<div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/>
 </div>
 
 <br>
@@ -61,7 +91,5 @@
 
 ---
 
-✨ Obrigado por visitar meu perfil!  
+✨ **Obrigado por visitar meu perfil!**  
 Sinta-se à vontade para explorar meus projetos e trocar uma ideia comigo.
-
-
