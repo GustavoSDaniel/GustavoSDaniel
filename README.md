@@ -27,12 +27,28 @@
 
 <div align="center">
 
-### 🔥 Desafio Inscritos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=desafio.inscritos&theme=jolly&show_owner=true)](https://github.com/GustavoSDaniel/desafio.inscritos)
-
-*Sistema para gerenciamento de projetos e tarefas com funcionalidades avançadas*
+<table>
+  <tr>
+    <td>
+      <h3 align="center">🔗 Encurtador de Links</h3>
+      <a href="https://github.com/GustavoSDaniel/encurtador-url">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=encurtador-url&theme=jolly&show_owner=true" />
+      </a>
+      <p align="center"><i>API para encurtar URLs com Redis, PostgreSQL e Docker.</i></p>
+    </td>
+    <td>
+      <h3 align="center">🔥 Gerenciamento De Projetos e Tarefas</h3>
+      <a href="https://github.com/GustavoSDaniel/desafio.inscritos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=desafio.inscritos&theme=jolly&show_owner=true" />
+      </a>
+      <p align="center"><i>Sistema para gerenciamento de projetos e tarefas.</i></p>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+
 
 <br>
 
