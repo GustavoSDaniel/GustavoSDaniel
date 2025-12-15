@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+👇" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=DD0AFC&size=30&center=true&width=500&lines=Olá!+Meu+nome+é+Gustavo;Desenvolvedor+de+Software;Bem-vindo!;Confira+meu+GitHub+%F0%9F%91%87%F0%9F%8F%BF" alt="Typing SVG">
 </div>
 
 <br>
@@ -27,28 +27,43 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <h3 align="center">🔗 Encurtador de Links</h3>
-      <a href="https://github.com/GustavoSDaniel/encurtador-url">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=encurtador-url&theme=jolly&show_owner=true" />
-      </a>
-      <p align="center"><i>API para encurtar URLs com Redis, PostgreSQL e Docker.</i></p>
+    <td width="50%">
+      <h3 align="center">🛒 E-commerce API (Principal)</h3>
+      <div align="center">
+        <a href="https://github.com/GustavoSDaniel/ecommerce-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=ecommerce-app&theme=jolly&show_owner=true" />
+        </a>
+      </div>
+      <p align="center"><i>Ecommerce com Stripe, Redis e Docker.</i></p>
     </td>
-    <td>
-      <h3 align="center">🔥 Gerenciamento De Projetos e Tarefas</h3>
-      <a href="https://github.com/GustavoSDaniel/desafio.inscritos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=desafio.inscritos&theme=jolly&show_owner=true" />
-      </a>
-      <p align="center"><i>Sistema para gerenciamento de projetos e tarefas.</i></p>
+    <td width="50%">
+      <h3 align="center">🔗 Encurtador de Links</h3>
+      <div align="center">
+        <a href="https://github.com/GustavoSDaniel/encurtador-url">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=encurtador-url&theme=jolly&show_owner=true" />
+        </a>
+      </div>
+      <p align="center"><i>Encurtador de URL com Redis e PostgreSQL.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔥 Gestão de Projetos</h3>
+      <div align="center">
+        <a href="https://github.com/GustavoSDaniel/desafio.inscritos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoSDaniel&repo=desafio.inscritos&theme=jolly&show_owner=true" />
+        </a>
+      </div>
+      <p align="center"><i>Sistema para gerenciamento de tarefas.</i></p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
 
 </div>
-
-
 
 <br>
 
@@ -107,5 +122,4 @@
 
 ---
 
-✨ **Obrigado por visitar meu perfil!**  
-Sinta-se à vontade para explorar meus projetos e trocar uma ideia comigo.
+✨ **Obrigado por visitar meu perfil!** Sinta-se à vontade para explorar meus projetos e trocar uma ideia comigo.
